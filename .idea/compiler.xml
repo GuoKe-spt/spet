@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spet" />
+        <module name="spet-controller" />
+        <module name="spet-po" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spet" target="1.8" />
+      <module name="spet-controller" target="1.8" />
+      <module name="spet-po" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
