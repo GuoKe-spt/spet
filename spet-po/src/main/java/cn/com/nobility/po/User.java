@@ -12,7 +12,7 @@ import javax.validation.constraints.NotBlank;
  * @date: 2019/5/15 11:12
  */
 @Data
-public class User {
+public class User extends BasePo {
 
     @NotBlank(message = "主键不能为空")
     private String id;

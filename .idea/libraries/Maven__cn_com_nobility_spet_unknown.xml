@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.com.nobility:spet:unknown">
+    <CLASSES>
+      <root url="jar://D:/dev/repository/cn/com/nobility/spet/unknown/spet-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/dev/repository/cn/com/nobility/spet/unknown/spet-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/dev/repository/cn/com/nobility/spet/unknown/spet-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
